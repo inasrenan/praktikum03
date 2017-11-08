@@ -1,5 +1,5 @@
-#inculude<iostream>
-#inculude<conio.h>
+#include<iostream>
+#include<conio.h>
 
 using namespace std;
 int main(){
@@ -27,7 +27,7 @@ int main(){
 		cout<<"\n";
 		cout<<"Masukan Nilai Alas\t = ";cin>>x;
 		cout<<"masukan NIlai Tinggi = ";cin>>y;
-		z=0 5*x*y;
+		z=0.5*x*y;
 		cout<<"Luas Segi Tiga\t\t = "<<z<<" cm";
 	}
 	else{
